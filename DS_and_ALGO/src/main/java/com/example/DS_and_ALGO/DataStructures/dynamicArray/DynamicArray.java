@@ -1,4 +1,4 @@
-package com.example.DS_and_ALGO.DataStructures;
+package com.example.DS_and_ALGO.DataStructures.dynamicArray;
 
 import java.util.Iterator;
 

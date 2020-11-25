@@ -1,4 +1,6 @@
-package com.example.DS_and_ALGO.DataStructures;
+package com.example.DS_and_ALGO.DataStructures.dynamicArray;
+
+import com.example.DS_and_ALGO.DataStructures.dynamicArray.DynamicArray;
 
 public class DynamicArrayDemo {
     public static void main(String[] args) {
